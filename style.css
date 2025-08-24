@@ -63,7 +63,7 @@ nav ul, a{
     
 }
 .cupimg{
-background-image:url("/images/food1.avif" );
+background-image:url("images/food1.avif" );
 width:80%;
 height: 300px;
 float: left;
@@ -88,7 +88,7 @@ background-size: cover;
 
 }
 .abtteam{
-background-image:url("/images/crispy-bakery-with-various-sauces_140725-2902.jpg" );
+background-image:url("images/crispy-bakery-with-various-sauces_140725-2902.jpg" );
 background-size: cover;
 height: 25vh;
 width:15%;
@@ -141,31 +141,31 @@ display: inline-block;
     gap: 2%;
 }
 .pic1{
-    background-image: url("/images/Library.jpg");
+    background-image: url("images/Library.jpg");
     height: 120px;
     width:50%;
     background-size: cover;
 }
 .pic2{
-    background-image: url("/images/OFFICE.jpg");
+    background-image: url("images/OFFICE.jpg");
     height: 120px;
     width:50%;
     background-size: cover;
 }
 .pic3{
-    background-image: url("/images/CUPIMG.jpeg");
+    background-image: url("images/CUPIMG.jpeg");
     height: 120px;
     width:50%;
     background-size: cover;
 }
 .pic4{
-    background-image: url("/images/PLATE.jpeg");
+    background-image: url("images/PLATE.jpeg");
     height: 120px;
     width:50%;
     background-size: cover;
 }
 .pic5{
-    background-image: url("/images/PLATE2.jpeg");
+    background-image: url("images/PLATE2.jpeg");
     height: 120px;
     width:50%;
     background-size: cover;
